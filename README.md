@@ -169,8 +169,8 @@ This portfolio can be deployed on various platforms:
 **Suyash Ambule**
 
 📧 **Email**: [Suyashambule1234@gmail.com](mailto:suyashambule1234@gmail.com)  
-💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/suyash-ambule)  
-🐙 **GitHub**: [Your GitHub Profile](https://github.com/suyash-ambule)
+💼 **LinkedIn**: [Suyash Ambule](https://linkedin.com/in/suyash-ambule)  
+🐙 **GitHub**: [Suyashambule](https://github.com/suyash-ambule)
 
 ---
 
